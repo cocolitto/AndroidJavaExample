@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520166496118",
+    "firebase_url": "https://worktimelogger-25f26.firebaseio.com",
+    "project_id": "worktimelogger-25f26",
+    "storage_bucket": "worktimelogger-25f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520166496118:android:9ee22ca4b3e35618c20c57",
+        "android_client_info": {
+          "package_name": "com.example.corsinobrist.worktimelogging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520166496118-kfpv7hap7320frs7s8jorbge969jjd7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlh-kcZRbJHJvt6jkT8Wge1esG0qnMq0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520166496118-kfpv7hap7320frs7s8jorbge969jjd7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
